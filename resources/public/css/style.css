@@ -1,0 +1,21 @@
+/* some style */
+
+h1, h2 {
+  display: inline-block;
+}
+
+.elem {
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  background-color: black;
+  border: 1px solid gray;
+}
+
+.row {
+  height: 20px;
+}
+
+.board {
+  width: 300px;
+}
