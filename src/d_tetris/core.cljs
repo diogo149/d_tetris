@@ -2,7 +2,7 @@
   (:require [figwheel.client :as fw]
             [reagent.core :as reagent]))
 
-(declare restart!)
+(declare restart! set-timer!)
 
 (def speedup-factor 0.5 #_0.97)
 (def num-rows 20)
