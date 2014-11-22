@@ -1,4 +1,6 @@
 * tetris (:
+Just tetris in clojurescript made in 2 and a half hours.
+
 To get it running, run ~lein figwheel~ and go to http://localhost:3449 to develop, or open index.html.
 
 WASD + spacebar to control it.
